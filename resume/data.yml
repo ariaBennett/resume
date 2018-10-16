@@ -1,0 +1,97 @@
+/* #*/ export const PERSON = `
+name:
+  first: Aria
+  last: Bennett
+about: Hi! I'm Aria Bennett.  I'm a pretty awesome person!
+       I've been programming for over a decade, and I have
+       a ton of passions- like Video Games, VR/AR, Comedy, 
+       Video and Film, and more!  I like being a positive
+       fun person, who also is very capable and driven.
+       It's nice to meet you!
+position: Software Developer, Actor, Entertainer, 
+          and I have a feeling I'd be a great bee keeper.
+
+birth:
+  year: 1987
+  location: Jonesboro, Arkansas, USA
+
+experience:
+- company: V-Aria Virtual Reality
+  position: Owner/Content Creator
+  timeperiod: 2015-2018
+  description: Creation of media content and platforms, with focus on Virtual Reality.
+  website: https://www.youtube.com/channel/UCIvvMFX1QY0n9bKasyyOuRg
+
+- company: Meyer Computer
+  position: Software Engineer
+  timeperiod: 2015
+  description: Digital solutions company in Hawaii offering typically web-based services.
+
+- company: Your Network
+  position: Software Engineer
+  timeperiod: 2014
+  description: Website where users watch online videos together. 
+               Technologies include Meteor and famo.us.
+
+- company: GoonTu.be
+  position: Software Engineer
+  timeperiod: 2014
+  description: Website where users watch online videos together.
+               Implemented features and contributed to overall concept.
+
+education:
+- degree: Hack Reactor
+  timeperiod: 2014
+  description: Widely acclaimed massively intensive programming education.
+  website: https://hackreactor.com
+
+- degree: Transcode
+  timeperiod: 2013
+  description: A class taught by a Google engineer and an MIT graduate engineer,
+               taught a masterful foundation in engineering.
+  website: http://www.sfcenter.org/programs/teei-services/transcode-programming-group-trans-and-genderqueer-allies
+
+# skill level goes 0 to 100
+skills:
+- name: JavaScript
+  level: 97
+- name: Node.js
+  level: 93
+- name: Bash
+  level: 90
+- name: Meteor
+  level: 87
+- name: Azure
+  level: 86
+- name: HTML 5
+  level: 80
+- name: Angular
+  level: 79
+- name: Unity3D
+  level: 74
+- name: C#
+  level: 72
+- name: Python
+  level: 70
+- name: C++
+  level: 60
+knowledge: I think I'd be a pretty awesome Game Designer!
+
+hobbies:
+- name: Video Games
+  iconClass: fa fa-gamepad
+  url: https://example.com
+
+- name: Drawing
+  iconClass: fa fa-pencil
+  url: https://example.com
+
+contact:
+  email: twoplustwo@gmail.com
+  phone: +316 1233 3122
+  street: Florence Nightingalestraat 136
+  city: Haarlem
+  github: ariaBennett
+# en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el
+lang: en
+`
